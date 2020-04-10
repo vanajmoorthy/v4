@@ -1,2 +1,3 @@
 https://www.vanajmoorthy.com/* /index.html 200
 https://vanajmoorthy.netlify.com/* https://www.vanajmoorthy.com/:splat 301!
+https://www.vanajmoorthy.com/morph https://morph-vanajmoorthy.netlify.com 200
