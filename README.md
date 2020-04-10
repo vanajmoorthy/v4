@@ -1,4 +1,6 @@
-# test123
+# vanajmoorthy.com
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d685f49-9e85-4888-93c1-c2f7ca25d9d5/deploy-status)](https://app.netlify.com/sites/vanajmoorthy/deploys)
 
 ## Project setup
 ```
