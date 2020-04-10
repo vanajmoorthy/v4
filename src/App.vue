@@ -63,7 +63,7 @@ a {
 	font-weight: 600;
 	font-style: normal;
 	max-width: 100vw;
-	height: 17vh;
+	height: 13vh;
 	margin: 0 2rem;
 	display: flex;
 	align-items: center;
