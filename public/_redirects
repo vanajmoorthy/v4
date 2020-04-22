@@ -1,3 +1,5 @@
+# all sub redirects
+
 https://www.vanajmoorthy.com/agastya https://www.vanajmoorthy.com/agastya/ 302
 https://www.vanajmoorthy.com/agastya/* https://agastya-vanajmoorthy.netlify.com/:splat 200!
 
@@ -37,5 +39,11 @@ https://www.vanajmoorthy.com/clock/* https://clock-vanajmoorthy.netlify.com/:spl
 https://www.vanajmoorthy.com/snake https://www.vanajmoorthy.com/snake/ 302
 https://www.vanajmoorthy.com/snake/* https://snake-vanajmoorthy.netlify.com/:splat 200!
 
+
+# default redirect
 https://www.vanajmoorthy.com/* /index.html 200
 https://vanajmoorthy.netlify.com/* https://www.vanajmoorthy.com/:splat 301!
+
+
+# all github redirects
+https://www.vanajmoorthy.com/gh/* https://github.com/vanajmoorthy/:splat 302

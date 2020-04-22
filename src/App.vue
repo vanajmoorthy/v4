@@ -62,7 +62,7 @@ a {
 
 #nav {
 	font-family: canada-type-gibson, sans-serif;
-	font-weight: 600;
+	font-weight: 500;
 	font-style: normal;
 	max-width: 100vw;
 	height: 13vh;
