@@ -51,7 +51,7 @@
 				</div>
 				<div class="card">
 					<a href="https://google.com" target="_blank">
-						<h1><span class="underline">Tic Tac Toe</span> ❌🅾️</h1>
+						<h1><span class="underline">Tic Tac Toe</span> ❌</h1>
 						<p>
 							A tic tac toe game made using the minimax algorithm
 							(which is annoyingly unbeatable) and vanilla
