@@ -1,7 +1,8 @@
+
 # all sub redirects
 
-https://www.vanajmoorthy.com/snake https://www.vanajmoorthy.com/snake/ 302
-https://www.vanajmoorthy.com/snake/* https://snake-vanajmoorthy.netlify.com/:splat 200!
+https://www.vanajmoorthy.com/graph https://www.vanajmoorthy.com/graph/ 302
+https://www.vanajmoorthy.com/graph/* https://graph-vanajmoorthy.netlify.com/:splat 200!
 
 
 # default redirect
