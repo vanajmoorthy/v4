@@ -24,15 +24,36 @@
 </template>
 
 <style>
+html {
+	overflow-y: scroll;
+}
 
 body {
 	background-color: #f7fafc;
 }
 
+/* width */
+::-webkit-scrollbar {
+	width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #576980;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #2998c4;
+}
 </style>
 
 <style scoped>
-
 #shorttext {
 	display: none;
 }
@@ -52,9 +73,7 @@ body {
 a {
 	text-decoration: none;
 	color: #576980;
-
 }
-
 
 #vanaj {
 	color: #2998c4;
