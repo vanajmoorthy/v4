@@ -70,7 +70,7 @@
 				</div>
 				<div class="card">
 					<a href="https://google.com" target="_blank">
-						<h1><span class="underline">English2Yoda </span> 👽</h1>
+						<h1><span class="underline">Yoda </span> 👽</h1>
 						<p>
 							A pretty simple English to Yodish translator I made
 							using p5.js and an annoying amount of JavaScript.
