@@ -39,7 +39,9 @@ export default {
 }
 
 .footer {
-	position: fixed;
+	/* backdrop-filter: blur(2px); */
+	padding-top: 40px;
+	/* position: fixed; */
 	left: 0;
 	height: 9vh;
 	bottom: 0;
