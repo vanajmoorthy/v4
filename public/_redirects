@@ -1,9 +1,7 @@
 
 # all sub redirects
-# https://www.vanajmoorthy.com/obstacles https://www.vanajmoorthy.com/obstacles/ 302
 https://www.vanajmoorthy.com/obstacles/* https://obstacles-vanajmoorthy.netlify.com/:splat 200!
 
-https://www.vanajmoorthy.com/graph https://www.vanajmoorthy.com/graph/ 302
 https://www.vanajmoorthy.com/graph/* https://graph-vanajmoorthy.netlify.com/:splat 200!
 
 
