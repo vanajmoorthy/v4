@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "start": "npm run serve",
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "node prebuild.js && vue-cli-service build && node postbuild.js",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
