@@ -33,7 +33,7 @@
 					emoji="✂️"
 					desc="This is a simple URL shortener I wrote using Express
 							and MongoDB and hosted on Heroku."
-					link="https://vanaj.me"
+					link="http://vanaj.me"
 				></Card>
 
 				<Card
