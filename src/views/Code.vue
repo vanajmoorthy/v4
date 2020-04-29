@@ -5,48 +5,48 @@
 		<div class="container">
 			<div class="cards">
 				<Card
-					title="Morph "
-					emoji="💠"
+					title="Morph"
+					emoji=" 💠"
 					desc="A generative design system to create multi-coloured
 							crystal graphics."
 					link="https://vanajmoorthy.com/morph"
 				></Card>
 
 				<Card
-					title="cshell "
-					emoji="🐚"
+					title="cshell"
+					emoji=" 🐚"
 					desc="A simple Unix based LSH written in C that taught me
 							the basics of a shell's life process."
 					link="https://vanajmoorthy.com/gh/cshell"
 				></Card>
 
 				<Card
-					title="Speechy "
-					emoji="🐢"
+					title="Speechy"
+					emoji=" 🐢"
 					desc="This is a small LISP style programming language I
 							made that transpiles to JavaScript."
 					link="https://vanajmoorthy.com/gh/speechy"
 				></Card>
 
 				<Card
-					title="Short "
-					emoji="✂️"
+					title="Short"
+					emoji=" ✂️"
 					desc="This is a simple URL shortener I wrote using Express
 							and MongoDB and hosted on Heroku."
 					link="http://vanaj.me"
 				></Card>
 
 				<Card
-					title="Obstacles "
-					emoji="▶️"
+					title="Obstacles"
+					emoji=" ▶️"
 					desc="A super fun game I made using p5.js and all the free
 							time I gained from bunking classes."
 					link="https://vanajmoorthy.com/obstacles"
 				></Card>
 
 				<Card
-					title="Tic Tac Toe "
-					emoji="❌"
+					title="Tic Tac Toe"
+					emoji=" ❌"
 					desc="A tic tac toe game made using the minimax algorithm
 							(which is annoyingly unbeatable) in vanilla
 							JavaScript."
@@ -54,40 +54,40 @@
 				></Card>
 
 				<Card
-					title="Pi2 "
-					emoji="🥧"
+					title="Pi2"
+					emoji=" 🥧"
 					desc="A truly awful pi approximation program I wrote using
 							Leibniz's formula for finding pi."
 					link="https://vanajmoorthy.com/pi2"
 				></Card>
 
 				<Card
-					title="Yoda "
-					emoji="👽"
+					title="Yoda"
+					emoji=" 👽"
 					desc="A pretty simple English to Yodish translator I made
 							using p5.js and an annoying amount of JavaScript."
 					link="https://vanajmoorthy.com/yoda"
 				></Card>
 
 				<Card
-					title="Pi "
-					emoji="🥧"
+					title="Pi"
+					emoji=" 🥧"
 					desc="A physics simulation based on a 3Blue1Brown video
 							that calculates pi using block collision."
 					link="https://vanajmoorthy.com/pi"
 				></Card>
 
 				<Card
-					title="Keylogger "
-					emoji="🕵️"
+					title="Keylogger"
+					emoji=" 🕵️"
 					desc="A pretty simple keylogger made using Python, pyHook
 							and pywin32."
 					link="https://vanajmoorthy.com/gi/keylogger"
 				></Card>
 
 				<Card
-					title="Enigma "
-					emoji="❓"
+					title="Enigma"
+					emoji=" ❓"
 					desc="A remake of the German cryptography machine from
 							World War II. Made using a Code Bullet video as a
 							reference."
@@ -95,47 +95,47 @@
 				></Card>
 
 				<Card
-					title="Spam Bot "
-					emoji="🤖"
+					title="Spam Bot"
+					emoji=" 🤖"
 					desc="A WhatsApp spam bot made using Python and the
 							Selenium web scraping library."
 					link="https://vanajmoorthy.com/gh/spambot"
 				></Card>
 
 				<Card
-					title="Visualise "
-					emoji="🎤"
+					title="Visualise"
+					emoji=" 🎤"
 					desc="A sketch that generates balls which react to the
 							sound input from your microphone."
 					link="https://vanajmoorthy.com/visualise"
 				></Card>
 
 				<Card
-					title="Graph "
-					emoji="📈"
+					title="Graph"
+					emoji=" 📈"
 					desc="A program that takes a mathematical function as
 							input and plots it on a graph."
 					link="https://vanajmoorthy.com/graph"
 				></Card>
 
 				<Card
-					title="Paint "
-					emoji="🎨"
+					title="Paint"
+					emoji=" 🎨"
 					desc="A very buggy web remake of MSpaint."
 					link="https://vanajmoorthy.com/paint"
 				></Card>
 
 				<Card
-					title="JockyCipher "
-					emoji="🔑"
+					title="JockyCipher"
+					emoji=" 🔑"
 					desc="A dynamic ROT based cipher made using vanilla
 							JavaScript."
 					link="https://vanajmoorthy.com/jockycipher"
 				></Card>
 
 				<Card
-					title="Clock "
-					emoji="🕒"
+					title="Clock"
+					emoji=" 🕒"
 					desc="A simple graphical clock I implemented using a
 							little bit of trigonometry and some bad colour
 							choices."
@@ -143,8 +143,8 @@
 				></Card>
 
 				<Card
-					title="Snake "
-					emoji="🍎"
+					title="Snake"
+					emoji=" 🍎"
 					desc="This is an emulation of the classic game snake in p5.js."
 					link="https://vanajmoorthy.com/snake"
 				></Card>
