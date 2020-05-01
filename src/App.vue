@@ -19,11 +19,26 @@
 				<li><router-link to="/design">Design</router-link></li>
 			</ul>
 		</div>
-		<router-view />
+		<transition name="fade" mode="out-in">
+			<router-view />
+		</transition>
 	</div>
 </template>
 
 <style>
+/* fade transition */
+.fade-enter-active,
+.fade-leave-active {
+	transition-duration: 0.2s;
+	transition-property: opacity;
+	transition-timing-function: ease;
+}
+
+.fade-enter,
+.fade-leave-active {
+	opacity: 0;
+}
+/* end fade transition */
 html {
 	overflow-y: scroll;
 }
@@ -32,22 +47,19 @@ body {
 	background-color: #f7fafc;
 }
 
-/* width */
+/* scrollbar */
 ::-webkit-scrollbar {
 	width: 5px;
 }
 
-/* Track */
 ::-webkit-scrollbar-track {
 	background: #f1f1f1;
 }
 
-/* Handle */
 ::-webkit-scrollbar-thumb {
 	background: #576980;
 }
 
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
 	background: #2998c4;
 }
