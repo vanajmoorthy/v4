@@ -11,7 +11,7 @@
           <h3>
             I'm an avid front-end web developer, a backend novice, and
             proficient digital artist. I enjoy making mostly inane but sometimes
-            useful web projects and I love (3D) art and motion graphics.
+            useful web projects and I love 3D art and motion graphics.
           </h3>
         </div>
       </div>
@@ -63,7 +63,7 @@ h3 {
   font-family: canada-type-gibson, sans-serif;
   font-style: normal;
   display: flex;
-  min-height: calc(100vh - 9vh - 40px - 0.8em);
+  /* min-height: calc(100vh - 9vh - 40px - 0.8em); */
   flex-direction: column;
 }
 
@@ -72,7 +72,7 @@ h3 {
   padding-right: 2rem;
   flex: 1;
   display: flex;
-  height: calc(100vh - 13vh - 9vh);
+  /* height: calc(100vh - 13vh - 9vh); */
 }
 
 .column1,

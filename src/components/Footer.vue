@@ -61,7 +61,6 @@ a:hover {
 	/* backdrop-filter: blur(2px); */
 	padding-top: 40px;
 	/* position: fixed; */
-	display: inline;
 	height: 9vh;
 	width: 100%;
 	color: #576980;
