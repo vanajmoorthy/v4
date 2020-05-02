@@ -11,7 +11,7 @@
           <h3>
             I'm an avid front-end web developer, a backend novice, and
             proficient digital artist. I enjoy making mostly inane but sometimes
-            useful web projects and I love 3D art and motion graphics.
+            useful web projects and I love (3D) art and motion graphics.
           </h3>
         </div>
       </div>

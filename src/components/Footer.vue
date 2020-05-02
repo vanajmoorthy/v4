@@ -61,9 +61,8 @@ a:hover {
 	/* backdrop-filter: blur(2px); */
 	padding-top: 40px;
 	/* position: fixed; */
-	left: 0;
+	display: inline;
 	height: 9vh;
-	bottom: 0;
 	width: 100%;
 	color: #576980;
 	text-align: center;
