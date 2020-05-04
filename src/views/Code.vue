@@ -106,7 +106,7 @@ export default {
 					title: "Enigma",
 					emoji: " ❓",
 					desc:
-						"A remake of the German cryptography machine from World War II. Made using a Code Bullet video as a reference.",
+						"A remake of the German cryptography machine from World War II.",
 					link: "https://vanajmoorthy.com/enigma",
 				},
 				{
