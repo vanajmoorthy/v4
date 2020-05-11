@@ -34,7 +34,7 @@ export default {
 			cards: [
 				{
 					title: "Dogs",
-					emoji: " 🐕",
+					emoji: " 🐶",
 					desc:
 						"A web app that provides you with random or breed-specific pictures of dogs.",
 					link: "https://vanajmoorthy.com/dogs",
