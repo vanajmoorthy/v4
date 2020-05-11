@@ -33,6 +33,13 @@ export default {
 		return {
 			cards: [
 				{
+					title: "Dogs",
+					emoji: " 🐕",
+					desc:
+						"A web app that provides you with random or breed-specific pictures of dogs.",
+					link: "https://vanajmoorthy.com/dogs",
+				},
+				{
 					title: "Morph",
 					emoji: " 💠",
 					desc:
@@ -92,7 +99,7 @@ export default {
 					title: "Pi",
 					emoji: " 🥧",
 					desc:
-						"A physics simulation based on a 3Blue1Brown video that calculates pi using block collision.",
+						"A physics simulation that calculates pi using block collision.",
 					link: "https://vanajmoorthy.com/pi",
 				},
 				{
@@ -147,7 +154,7 @@ export default {
 					title: "Clock",
 					emoji: " 🕒",
 					desc:
-						"A simple graphical clock I implemented using a little bit of trigonometry and some bad colour choices.",
+						"A simple graphical clock I implemented using a little bit of trigonometry.",
 					link: "https://vanajmoorthy.com/clock",
 				},
 				{
