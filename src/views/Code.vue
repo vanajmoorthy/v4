@@ -58,7 +58,7 @@ export default {
 					emoji: " 🐢",
 					desc:
 						"This is a small LISP style programming language I made that transpiles to JavaScript.",
-					link: "https://vanajmoorthy.com/gh/speechy",
+					link: "https://vanajmoorthy.com/gh/speechylang",
 				},
 				{
 					title: "Short",
