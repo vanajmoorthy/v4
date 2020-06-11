@@ -33,6 +33,20 @@ export default {
 		return {
 			cards: [
 				{
+					title: "Gravity",
+					emoji: " 🌎",
+					desc:
+						"A complete gravity simulator I made in p5 of bodies orbitting each other.",
+					link: "https://vanajmoorthy.com/gravity",
+				},
+				{
+					title: "Blog",
+					emoji: " ✒️",
+					desc:
+						"A full stack form handling app I made to learn SQLite and Express.",
+					link: "https://vanajmoorthy.com/blog",
+				},
+				{
 					title: "Dogs",
 					emoji: " 🐶",
 					desc:
