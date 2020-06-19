@@ -63,7 +63,8 @@ h3 {
   font-family: canada-type-gibson, sans-serif;
   font-style: normal;
   display: flex;
-  /* min-height: calc(100vh - 9vh - 40px - 0.8em); */
+  justify-content: space-between;
+  height: calc(100vh - 14.6vh);
   flex-direction: column;
 }
 
