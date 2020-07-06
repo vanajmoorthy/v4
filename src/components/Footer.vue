@@ -59,9 +59,7 @@ a:hover {
 
 .footer {
 	/* backdrop-filter: blur(2px); */
-	padding-top: 40px;
-	/* position: fixed; */
-	height: 9vh;
+	padding: 40px 0;
 	width: 100%;
 	color: #576980;
 	text-align: center;
