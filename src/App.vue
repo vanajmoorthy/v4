@@ -25,6 +25,7 @@
 	</div>
 </template>
 
+// APPLIES TO ENTIRE PAGE NOT SCOPED THANK YOU
 <style>
 /* fade transition */
 .fade-enter-active,

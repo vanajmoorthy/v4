@@ -51,10 +51,10 @@ a:hover {
 	display: inline;
 }
 
-@media only screen and (max-width: 490px) {
-	.icon {
-	}
-}
+/* @media only screen and (max-width: 490px) { */
+/* .icon { */
+/* } */
+/* } */
 
 .wrapper {
 	display: flex;
@@ -71,5 +71,23 @@ a:hover {
 	width: 30%;
 	color: #576980;
 	text-align: center;
+}
+
+@media only screen and (max-width: 1000px) {
+	.footer {
+		width: 50%;
+	}
+}
+
+@media only screen and (max-width: 660px) {
+	.footer {
+		width: 70%;
+	}
+}
+
+@media only screen and (max-width: 420px) {
+	.footer {
+		width: 100%;
+	}
 }
 </style>
