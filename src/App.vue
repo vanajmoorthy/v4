@@ -40,9 +40,10 @@
 	opacity: 0;
 }
 /* end fade transition */
-html {
+
+/* html {
 	overflow-y: scroll;
-}
+} */
 
 body {
 	background-color: #f7fafc;
