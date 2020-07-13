@@ -49,12 +49,10 @@ a:hover {
 
 .icon {
 	display: inline;
-	padding: 1.5em;
 }
 
 @media only screen and (max-width: 490px) {
 	.icon {
-		padding: 0.8em;
 	}
 }
 
@@ -66,7 +64,6 @@ a:hover {
 
 .footer {
 	/* backdrop-filter: blur(2px); */
-	padding: 10px 0 20px 0;
 	display: flex;
 	/* flex: 0.5; */
 	justify-content: space-evenly;
