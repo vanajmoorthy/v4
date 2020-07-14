@@ -80,9 +80,9 @@ h3 {
 .container {
 	padding-left: 2rem;
 	padding-right: 2rem;
-	flex: 1;
+	/* flex: 1; */
 	display: flex;
-	/* height: calc(100vh - 13vh - 9vh); */
+	/* height: calc(100vh - 13vh - 11vh); */
 }
 
 .column1,
@@ -93,6 +93,10 @@ h3 {
 
 .column2 {
 	text-align: center;
+	height: 75vh;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
 }
 
 #scooter {
