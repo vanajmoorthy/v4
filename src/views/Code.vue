@@ -33,6 +33,13 @@ export default {
 		return {
 			cards: [
 				{
+					title: "mcow.ml",
+					emoji: " 🐮",
+					desc:
+						"A full fledged URL shortener made using Express and MongoDB",
+					link: "https://www.mcow.ml",
+				},
+				{
 					title: "Gravity",
 					emoji: " 🌎",
 					desc:
@@ -79,7 +86,7 @@ export default {
 					emoji: " ✂️",
 					desc:
 						"This is a simple URL shortener I wrote using Express and MongoDB and hosted on Heroku.",
-					link: "http://vanaj.me",
+					link: "https://vanajmoorthy.com/gh/short",
 				},
 				{
 					title: "Obstacles",
