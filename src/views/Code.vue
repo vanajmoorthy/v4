@@ -224,7 +224,6 @@ p {
 }
 
 .cards {
-	max-width: 1200px;
 	margin: 0 auto;
 	display: grid;
 	grid-gap: 2rem;
